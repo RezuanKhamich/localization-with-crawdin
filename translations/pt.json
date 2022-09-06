@@ -1,6 +1,11 @@
 {
-  "dashboard": "Painel de controlo",
-  "analytics": "Analítica",
-  "users": "Usuários"
+  "nav": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "users": "Users"
+  },
+  "users": {
+    "accountName": "Test"
+  }
 }
 

@@ -1,6 +1,11 @@
 {
-  "dashboard": "Панель управления",
-  "analytics": "Аналитика",
-  "users": "Пользователи"
+  "nav": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "users": "Users"
+  },
+  "users": {
+    "accountName": "Test"
+  }
 }
 
