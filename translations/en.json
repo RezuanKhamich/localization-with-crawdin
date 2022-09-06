@@ -1,6 +1,11 @@
 {
-  "dashboard": "Dashboard",
-  "analytics": "Analytics",
-  "users": "Users"
+  "nav": {
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "users": "Users"
+  },
+  "users": {
+    "accountName": "Test"
+  }
 }
 
